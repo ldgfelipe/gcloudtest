@@ -1,0 +1,11 @@
+{
+  "name": "educa",
+  "version": "1.0.0",
+  "description": "prueba de servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
